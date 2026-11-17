@@ -1,7 +1,6 @@
 # Flame in Freefall — Research Atlas
 
-A frontend-only React + TypeScript prototype for exploring NASA low-gravity combustion research. It makes no API calls and includes no server, authentication, AI feature, or prediction model.
-
+A frontend-only React + TypeScript prototype for exploring NASA low-gravity combustion research.
 ## Run locally
 
 Requires Node.js 20 or later and npm.
